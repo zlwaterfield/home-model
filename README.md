@@ -47,6 +47,9 @@ improvement,Bathroom,2000,2028-11-27,
 sale,6.0,800000,2029-12-01,
 ```
 
+### Example output
+<img width="913" alt="Screenshot 2024-11-28 at 8 50 10 PM" src="https://github.com/user-attachments/assets/bc59bbcd-e924-4523-8af5-bebd3ef6b2cb">
+
 ## Notes
 
 - This is a work in progress! 
