@@ -53,9 +53,22 @@ sale,6.0,800000,2029-12-01,
 ## Notes
 
 - This is a work in progress! 
-- Makes some basic assumptions about market returns
+- Makes some basic assumptions about market returns (7% for S&P 500)
 - Doesn't account for things like tax benefits or rental income
 - Uses a simplified comparison model
+
+## Future features
+
+- Tax benefits (mortgage interest & property tax deductions)
+- Rental income modeling
+- Advanced market analysis (variable returns, historical data)
+- Additional cost tracking (utilities, maintenance, PMI)
+- Risk analysis and scenario modeling
+- Visual reporting (graphs & charts)
+- Support for different mortgage types (ARM, bi-weekly payments)
+- Renovation ROI calculations
+- Multiple property comparison
+- Real estate market data integration
 
 ## Requirements
 
