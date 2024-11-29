@@ -1,4 +1,4 @@
-# Home Investment Calculator
+# Home model
 
 A simple Python tool to help you figure out if buying a home was a good investment compared to putting your money in the stock market. It considers your mortgage payments, home improvements, and other costs to give you a clear picture.
 
@@ -13,7 +13,7 @@ A simple Python tool to help you figure out if buying a home was a good investme
 - See how much equity you're building
 - Get a simple profit/loss analysis
 
-## Quick Start
+## Quick start
 
 1. Clone and set up:
 ```bash
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python index.py --csv your_costs.csv
 ```
 
-### CSV Example
+### CSV example
 ```csv
 category,description,amount,date,frequency
 mortgage,term_years=25;annual_rate=5.2,400000,2024-11-27,
