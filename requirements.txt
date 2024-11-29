@@ -1,0 +1,5 @@
+numpy==1.26.3
+pandas==2.2.0
+python-dateutil==2.8.2
+numpy_financial==1.0.0
+rich>=10.0.0
